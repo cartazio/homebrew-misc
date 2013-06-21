@@ -16,7 +16,7 @@ class CompilerRt < Formula
   head      'http://llvm.org/git/compiler-rt.git'
 end
 
-class Llvm < Formula
+class Llvm32 < Formula
   homepage  'http://llvm.org/'
   url       'http://llvm.org/releases/3.2/llvm-3.2.src.tar.gz'
   sha1      '42d139ab4c9f0c539c60f5ac07486e9d30fc1280'
